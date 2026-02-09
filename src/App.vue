@@ -130,7 +130,7 @@ button {
     padding: 10px 14px;
     border-radius: 10px;
     border: none;
-    background: #4f46e5;
+    background: #46e54e;
     color: #fff;
     cursor: pointer;
 }
